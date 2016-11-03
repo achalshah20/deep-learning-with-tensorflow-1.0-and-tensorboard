@@ -1,2 +1,3 @@
-# machine-learning-with-tensorflow-python
-Implement machine learning algorithms using tensorflow
+# Machine learning with tensorflow
+
+Implementation of machine learning algorithms using tensorflow
