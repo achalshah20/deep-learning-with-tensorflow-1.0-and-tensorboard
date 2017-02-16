@@ -1,3 +1,3 @@
-# Machine learning with tensorflow
+# Programming with tensorflow
 
 Implementation of machine learning algorithms using tensorflow
