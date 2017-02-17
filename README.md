@@ -1,3 +1,2 @@
-# Programming with tensorflow
+# Deep Learning with Tensorflow 1.0 and tensorboard
 
-Implementation of machine learning algorithms using tensorflow
